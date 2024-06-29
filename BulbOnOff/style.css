@@ -1,0 +1,25 @@
+body{
+    /* background-color: #033175; */
+}
+.bulb{
+    width: 200px;
+    height: 200px;
+}
+
+#toggle-bulb{
+    background: #fff;
+    height: 50px;
+    width: 10px;
+    /* margin-left: 250px; */
+    border: 12px solid grey 
+
+}
+
+#bulb-On{
+    margin-left: 10px;
+    display: none;
+}
+
+#text-style{
+    margin-top: 150px;
+}
